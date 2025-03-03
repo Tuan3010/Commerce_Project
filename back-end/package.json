@@ -15,6 +15,7 @@
   "author": "Nguyen Duy Tuan",
   "license": "ISC",
   "dependencies": {
+    "@faker-js/faker": "^9.5.1",
     "express": "^4.21.2",
     "migrate-mongo": "^12.1.3",
     "mongoose": "^8.11.0"
